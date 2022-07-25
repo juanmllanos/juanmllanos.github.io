@@ -309,7 +309,10 @@ img {
     display: flex;
     align-items: center;
   }
-
+  
+  iframe {
+    width: 90vw;
+  }
 }
 
 
